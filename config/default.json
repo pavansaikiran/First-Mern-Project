@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://psk_1234:psk12345@cluster0-tyt1g.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret" : "some_token_shit"
+}
